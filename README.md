@@ -2,9 +2,9 @@
 <h3 align="center">A passionate about web development</h3>
 
 
-- 🔭 I’m currently working on **J.A.R.V.I.S ( AI on iron man )**
+- 🔭 I’m currently working on **Lost dungeon (vr game)**
 
-- 🌱 I’m currently learning **CSS , JS , PY and react**
+- 🌱 I’m currently learning **react and c++**
 
 - 👨‍💻 All of my projects are available at : (coming soon...)
 
