@@ -2,13 +2,13 @@
 <h3 align="center">A passionate about web development</h3>
 
 
-- 🔭 I’m currently working on **Lost dungeon (vr game)**
+- 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **react and c++**
+- 🌱 I’m currently learning **js and c++**
 
 - 👨‍💻 All of my projects are available at : (coming soon...)
 
-- 📫 How to reach me ? **discord : Down_v2#1533**
+- 📫 How to reach me ? **discord : BaalZephon#1533**
 
 - ⚡ About me ? **I am a serious, autonomous and creative person. I mainly develop the front end then the backend in secondary.**
 
