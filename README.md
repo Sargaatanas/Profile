@@ -4,13 +4,9 @@
 
 - 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **js and c++**
-
-- 👨‍💻 All of my projects are available at : (coming soon...)
+- 🌱 I’m currently learning **nothing**
 
 - 📫 How to reach me ? **discord : BaalZephon#1533**
-
-- ⚡ About me ? **I am a serious, autonomous and creative person. I mainly develop the front end then the backend in secondary.**
 
 
 <p align="left">
