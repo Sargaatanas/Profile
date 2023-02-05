@@ -1,12 +1,8 @@
-<h1 align="center">Hi 👋, I'm Down</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate about web development</h3>
 
 
-- 🔭 I’m currently working on **Nothing**
-
-- 🌱 I’m currently learning **nothing**
-
-- 📫 How to reach me ? **discord : BaalZephon#1533**
+- 🌱 I’m currently learning **ruby**
 
 
 <p align="left">
